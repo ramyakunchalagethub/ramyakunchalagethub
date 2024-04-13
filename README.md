@@ -1,7 +1,7 @@
 - 👋 Hi, Ramya kunchala Welcomes You
 - 👀 I’m interested in developing.  websites,and creating new projects
 - 🌱 I’m currently learning python,html,css.
-- 💞️ I’m looking to collaborate any startup company 
+- 💞️ I’m looking to collaborate any startup company.
 
 
 <!---
